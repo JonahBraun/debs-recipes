@@ -6,99 +6,54 @@ title: Deb's Best Recipes
 			<div class='col-sm-6 col-md-3'>
 				<h2>Entres</h2>
 				<h2>Beef</h2>
-				<ul>
-					{% for post in site.categories.beef %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.beef %}
+					{% include cat.html %}
 				<h2>Pork</h2>
-				<ul>
-					{% for post in site.categories.pork %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.pork %}
+					{% include cat.html %}
 				<h2>Chicken</h2>
-				<ul>
-					{% for post in site.categories.poultry %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.poultry %}
+					{% include cat.html %}
 				<h2>Bison</h2>
-				<ul>
-					{% for post in site.categories.bison %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.bison %}
+					{% include cat.html %}
 				<h2>Lamb</h2>
-				<ul>
-					{% for post in site.categories.lamb %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat =.categories.lamb %}
+					{% include cat.html %}
 				<h2>Vegetarian/Vegan</h2>
-				<ul>
-					{% for post in site.categories.vegi %}
-					<li><a href='{{ post.url }}'>{{ post.title }} <span class='tags'>{{ post.tags  | join:' ' }}</span></a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.vegi %}
+					{% include cat.html %}
 				<h2>Sea Food</h2>
-				<ul>
-					{% for post in site.categories.seafood %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.seafood %}
+					{% include cat.html %}
 			</div>
 			<div class='col-sm-6 col-md-3'>
 				<h2>Soups</h2>
-				<ul>
-					{% for post in site.categories.soups %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.soups %}
+					{% include cat.html %}
 				<h2>Starters</h2>
-				<ul>
-					{% for post in site.categories.starters %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.starters %}
+					{% include cat.html %}
 				<h2>Salads</h2>
-				<ul>
-					{% for post in site.categories.salads %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.salads %}
+					{% include cat.html %}
 				<h2>Breads</h2>
-				<ul>
-					{% for post in site.categories.breads %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.breads %}
+					{% include cat.html %}
 			</div>
 			<div class='col-sm-6 col-md-3'>
 				<h2>Desserts</h2>
-				<ul>
-					{% for post in site.categories.desserts %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.desserts %}
+					{% include cat.html %}
 			</div>
 			<div class='col-sm-6 col-md-3'>
 				<h2>Beverages</h2>
-				<ul>
-					{% for post in site.categories.beverages %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.beverages %}
+					{% include cat.html %}
 				<h2>Sides</h2>
-				<ul>
-					{% for post in site.categories.sides %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.sides %}
+					{% include cat.html %}
 				<h2>Miscellaneous</h2>
-				<ul>
-					{% for post in site.categories.misc %}
-					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
+					{% assign cat = site.categories.misc %}
+					{% include cat.html %}
 			</div>
