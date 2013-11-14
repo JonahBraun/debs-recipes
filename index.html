@@ -38,7 +38,7 @@ title: Deb's Best Recipes
 				<h2>Vegetarian/Vegan</h2>
 				<ul>
 					{% for post in site.categories.vegi %}
-					<li><a href='{{ post.url }}'>{{ post.title }} {{ post.tags }}</a></li>
+					<li><a href='{{ post.url }}'>{{ post.title }} {{ post.tags  | join:' ' }}</a></li>
 					{% endfor %}
 				</ul>
 				<h2>Sea Food</h2>
