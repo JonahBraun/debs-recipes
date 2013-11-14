@@ -1,0 +1,104 @@
+---
+layout: default
+title: Deb's Best Recipes
+---
+		<div id='menu'>
+			<div class='col-sm-6 col-md-3'>
+				<h2>Entres</h2>
+				<h2>Beef</h2>
+				<ul>
+					{% for post in site.categories.beef %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Pork</h2>
+				<ul>
+					{% for post in site.categories.pork %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Chicken</h2>
+				<ul>
+					{% for post in site.categories.poultry %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Bison</h2>
+				<ul>
+					{% for post in site.categories.bison %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Lamb</h2>
+				<ul>
+					{% for post in site.categories.lamb %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Vegetarian/Vegan</h2>
+				<ul>
+					{% for post in site.categories.vegi %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Sea Food</h2>
+				<ul>
+					{% for post in site.categories.seafood %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class='col-sm-6 col-md-3'>
+				<h2>Soups</h2>
+				<ul>
+					{% for post in site.categories.soups %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Starters</h2>
+				<ul>
+					{% for post in site.categories.starters %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Salads</h2>
+				<ul>
+					{% for post in site.categories.salads %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Breads</h2>
+				<ul>
+					{% for post in site.categories.breads %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class='col-sm-6 col-md-3'>
+				<h2>Desserts</h2>
+				<ul>
+					{% for post in site.categories.desserts %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class='col-sm-6 col-md-3'>
+				<h2>Beverages</h2>
+				<ul>
+					{% for post in site.categories.beverages %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Sides</h2>
+				<ul>
+					{% for post in site.categories.sides %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+				<h2>Miscellaneous</h2>
+				<ul>
+					{% for post in site.categories.misc %}
+					<li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
