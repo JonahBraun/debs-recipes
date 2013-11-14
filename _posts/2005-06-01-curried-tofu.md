@@ -2,7 +2,7 @@
 layout: recipe
 title: Curried Tofu
 category: vegi
-tags: Ⓥ, ㉚
+tags: Ⓥ ㉚
 serves: 4
 ---
 One pan asian vegetarian meal with Canadian cheddar.
