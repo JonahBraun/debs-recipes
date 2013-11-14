@@ -2,6 +2,7 @@
 layout: recipe
 title: Ginger Beef
 category: beef
+tags: 
 ---
 Crispy and spicy&nbsp; little beef morsels with stir fry.&nbsp; A little complicated to make but worth the effort.<br />
 <table border="0"><tr><td>1 lb beef - cut into very thin matchsticks (easier to cut if meat is partially frozen&nbsp;</td><td>&nbsp;</td></tr><tr><td>1 celery stick <br />
