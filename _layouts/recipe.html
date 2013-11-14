@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<i>serves {{ post.serves }}</i>
+<h2>{{ page.title }} <span class='titletags'>{{ page.tags | join:' ' }}</span></h2>
+{% if page.serves %}
+  <i>serves {{ page.serves }}</i>
+{% endif %}
 
 <div class="recipe">
 {{ content }}
