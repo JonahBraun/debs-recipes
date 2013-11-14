@@ -2,3 +2,5 @@ name: Debs Best Recipes
 markdown: redcarpet
 pygments: true
 permalink: none
+safe: true
+lsi: false
