@@ -3,7 +3,11 @@ layout: default
 ---
 <h2>{{ page.title }} <span class='tags'>{{ page.tags | join:' ' }}</span></h2>
 {% if page.serves %}
-<p><i>serves {{ page.serves }}</i></p>
+<p><i>serves {{ page.serves }}
+{% if page.prep %}
+&emsp;&emsp;{{ page.prep }}
+{% endif %}
+</i></p>
 {% endif %}
 
 <div class="recipe">
