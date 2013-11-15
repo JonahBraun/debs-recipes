@@ -30,3 +30,7 @@ h2 {
   padding-top: 0.5em; }
   h2 .tags {
     font-size: 0.5em; }
+
+.recipe ul {
+  margin-left: 1.5em;
+  background: #fbf7ef; }
