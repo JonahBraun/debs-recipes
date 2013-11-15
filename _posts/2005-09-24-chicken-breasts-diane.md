@@ -2,8 +2,9 @@
 layout: recipe
 title: Chicken Breasts Diane
 category: poultry
+tags: ㉚
 ---
-Easy to make, but delicious and elegant.<br />
+Easy to make, delicious with great presentation
 <table border="0"><tr><td>&nbsp;4 large boneles chicken breast halves<br />
 </td><td>3 tbs brandy or cognac <br />
 </td></tr><tr><td>1/2 tsp salt <br />
