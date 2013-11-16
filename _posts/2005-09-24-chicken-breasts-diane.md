@@ -4,13 +4,14 @@ title: Chicken Breasts Diane
 category: poultry
 tags: ㉚
 ---
-Easy to make, delicious with great presentation
-<table border="0"><tr><td>&nbsp;4 large boneles chicken breast halves<br />
-</td><td>3 tbs brandy or cognac <br />
-</td></tr><tr><td>1/2 tsp salt <br />
-</td><td>3 tbs chopped parsley <br />
-</td></tr><tr><td>1/4 to 1/2 tsp black pepper <br />
-</td><td>2 tsp dijon style mustard <br />
+Easy to make, delicious with great presentation.
+
+4 large boneles chicken breast halves
+3T brandy or cognac
+½t salt
+3T chopped parsley 
+1/4 - ½t black pepper
+2t dijon style mustard <br />
 </td></tr><tr><td>2 tbs olive oil <br />
 </td><td>1/4 cup chicken broth <br />
 </td></tr><tr>
