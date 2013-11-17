@@ -32,5 +32,6 @@ h2 {
     font-size: 0.5em; }
 
 .recipe ul {
-  margin-left: 1.5em;
-  background: #fbf7ef; }
+  margin: 0 0 1em 1em;
+  background: #fbf7ef;
+  padding: 0.5em; }
