@@ -2,8 +2,7 @@ body {
   background: #f6efdf; }
 
 a {
-  color: #2e001a;
-  display: block; }
+  color: #2e001a; }
 
 a:hover {
   color: #690021; }
@@ -18,10 +17,12 @@ li {
   text-indent: -1.5em; }
   li .tags {
     font-size: 0.8em; }
+  li a {
+    display: block; }
 
 h1 {
   font-family: "Arizonia", cursive;
-  font-size: 48px;
+  font-size: 3.5em;
   text-decoration: underline; }
 
 h2 {
@@ -35,3 +36,9 @@ h2 {
   margin: 0 0 1em 1em;
   background: #fbf7ef;
   padding: 0.5em; }
+
+.filter {
+  display: none; }
+  @media screen and (min-width: 768px) {
+    .filter {
+      padding-top: 37px; } }

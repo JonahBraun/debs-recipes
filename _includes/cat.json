@@ -1,0 +1,3 @@
+{% for post in cat %}
+	{{ post.url | jsonify }}: {{ post.content | strip_html | jsonify }},
+{% endfor %}

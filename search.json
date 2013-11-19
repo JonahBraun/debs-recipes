@@ -1,0 +1,53 @@
+---
+---
+{
+	{% assign cat = site.categories.beef %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.pork %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.poultry %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.bison %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.lamb %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.vegi %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.seafood %}
+	{% include cat.json %}
+
+
+	{% assign cat = site.categories.soups %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.starters %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.salads %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.breads %}
+	{% include cat.json %}
+
+
+	{% assign cat = site.categories.desserts %}
+	{% include cat.json %}
+
+
+	{% assign cat = site.categories.beverages %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.sides %}
+	{% include cat.json %}
+
+	{% assign cat = site.categories.misc %}
+	{% include cat.json %}
+
+	"NOTAPOST": false
+}
