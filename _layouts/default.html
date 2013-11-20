@@ -1,52 +1,15 @@
 ---
+layout: topframe
 ---
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-		<meta charset="utf-8">
-		<title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="author" content="Debbie Braun">
-
-		<link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
-
-    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="/css/style.css" rel="stylesheet" media="screen">
-  </head>
-  <body>
-		<div class='container'>
-			<div class="row">
-				<div class='col-sm-8 col-md-6'>
-					<a href='/'><h1>&#8195; {{ site.name }} &#8195;</h1></a>
-				</div>
-				<div class='col-sm-2 col-md-2 filter'>
-					<input type='text' id='filter' placeholder='search is loading...' />
-				</div>
-			</div>
-			<div class="row">
-				{{ content }}
+<body>
+	<div class='container'>
+		<div class="row">
+			<div class='col-sm-8 col-md-6'>
+				<a href='/'><h1>&#8195; {{ site.name }} &#8195;</h1></a>
 			</div>
 		</div>
-  </body>
-	{% comment %}
-	<script src="/js/jquery-1.10.2.min.js"></script>
-	{% endcomment %}
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-     <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-45740916-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
+		<div class="row">
+{{ content }}
+</div> </div> </body>
+{% include footjs.html %}
 </html>

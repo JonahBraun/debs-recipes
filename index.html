@@ -1,7 +1,18 @@
 ---
-layout: default
+layout: topframe
 title: Deb's Best Recipes
 ---
+<body>
+	<div class='container'>
+		<div class="row">
+			<div class='col-sm-8 col-md-6'>
+				<a href='/'><h1>&#8195; {{ site.name }} &#8195;</h1></a>
+			</div>
+			<div class='col-sm-2 col-md-2 filter'>
+				<input type='text' id='filter' placeholder='search is loading...' />
+			</div>
+		</div>
+		<div class="row">
 <div id='menu'>
 	<div class='col-sm-6 col-md-3'>
 		<h2>Entres</h2>
@@ -58,6 +69,13 @@ title: Deb's Best Recipes
 			{% include cat.html %}
 	</div>
 </div>
+
+{% include footjs.html %}
+
+</div> </div> </body>
+
+{% include footjs.html %}
+
 <script>
 $(window).load(function() {
 	$.getJSON("search.json", function(sindex){
@@ -83,3 +101,5 @@ $(window).load(function() {
 });
 
 </script>
+
+</html>
