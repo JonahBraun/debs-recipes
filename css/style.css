@@ -1,5 +1,6 @@
 body {
-  background: #f6efdf; }
+  background: #f6efdf;
+  margin: 0 15px; }
 
 a {
   color: #2e001a; }
@@ -23,7 +24,8 @@ li {
 h1 {
   font-family: "Arizonia", cursive;
   font-size: 3.5em;
-  text-decoration: underline; }
+  text-decoration: underline;
+  white-space: nowrap; }
 
 h2 {
   font-family: "Arizonia", cursive;
@@ -33,7 +35,7 @@ h2 {
     font-size: 0.5em; }
 
 .recipe ul {
-  margin: 0 0 1em 1em;
+  margin: 0 1em 1em 1em;
   background: #fbf7ef;
   padding: 0.5em; }
 
