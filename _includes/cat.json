@@ -1,4 +1,4 @@
 {% for post in cat %}
-	{% capture stuff %}{{ post.title }} {{ post.content }}{% endcapture %}
+	{% capture stuff %}{{ post.title }} {{ post.categories }} {{ post.content }}{% endcapture %}
 	{{ post.url | jsonify }}: {{ stuff | strip_html | downcase | jsonify }},
 {% endfor %}
