@@ -42,3 +42,8 @@ h2 {
 @media screen and (min-width: 768px) {
   .filter {
     padding-top: 37px; } }
+
+input {
+  border: none;
+  padding: 3px 5px;
+  background: #fdfbf7; }

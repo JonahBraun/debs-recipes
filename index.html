@@ -9,7 +9,7 @@ title: Deb's Best Recipes
 				<a href='/'><h1>&#8195; {{ site.name }} &#8195;</h1></a>
 			</div>
 			<div class='col-sm-2 col-md-2 filter'>
-				<input type='text' id='filter' placeholder='search is loading...' />
+				<input type='text' id='filter' placeholder='search is loading...' autofocus="autofocus" />
 			</div>
 		</div>
 		<div class="row">
@@ -80,18 +80,21 @@ title: Deb's Best Recipes
 $(window).load(function() {
 	$.getJSON("search.json", function(sindex){
 		delete sindex.NOTAPOST;
-		$('#filter').keyup(function(){
+		$('#filter').on('input', function(){
 			filter = $('#filter').val().toLowerCase();
 
-			if(filter.length === 0){
+			if(filter.length < 3){
 				$('li').css('display', 'block');
 				return;
 			}
 
-			if(filter.length > 2){
+			if(filter.length >= 3){
 				$.each(sindex, function(k, v){
 					if(v.indexOf(filter) === -1){
 						$('[x-url="'+k+'"]').css('display', 'none');
+					}
+					else{
+						$('[x-url="'+k+'"]').css('display', 'block');
 					}
 				});
 			}
