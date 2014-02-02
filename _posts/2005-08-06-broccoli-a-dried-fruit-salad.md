@@ -9,7 +9,7 @@ A great salad summer or winter, but especially in the winter when a hearty salad
 - 1 c mayonnaise
 - ¼ c red wine vinegar
 - 1 T sugar
-- 1/2 t pepper 
+- ½  t pepper 
 - ¼ t salt
 - 1 kg broccoli
 - 2 cups shredded cheddar cheese
