@@ -4,7 +4,7 @@ title: Ginger Beef
 category: beef
 tags: 
 serves: 4 - 6  
-prep: 2 h
+prep time: 2 h
 ---
 Crisp and spicy little beef morsels with stir fry. A little complicated to make but worth the effort.
 
