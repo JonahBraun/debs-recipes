@@ -11,7 +11,7 @@ Mix together and press into a 9" square pan -
 - ¼ c brown sugar
 - ½ c butter
 Bake at 350 degrees for 15 minutes.
----
+
 Mix together - 
 - ⅓ c butter
 - 2 T cream
