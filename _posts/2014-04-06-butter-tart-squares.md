@@ -3,9 +3,9 @@ layout: recipe
 title: Butter Tart Squares
 category: desserts
 ---
-Not low fat, not low sugar, not high fibre, and not healthy,
+Not low fat, not low sugar, not high fibre, and not healthy ...
 just a real old fashioned treat! 
----
+
 Mix together and press into a 9" square pan - 
 - 1¼ c flour
 - ¼ c brown sugar
