@@ -11,6 +11,7 @@ Mix together and press into a 9" square pan
 - 1¼ c flour
 - ¼ c brown sugar
 - ½ c butter
+
 Bake at 350 degrees for 15 minutes.
 
 Mix together 
@@ -22,5 +23,6 @@ Mix together
 - 1 c raisons
 - 1 egg, beaten
 - 1 c brown sugar
+
 Spread over hot baked crust and return to oven.  Bake for 20 - 30 minutes.
 
