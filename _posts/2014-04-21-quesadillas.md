@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title: Casadillas
+title: Quesadillas
 category: Pork
 tags: ㉚
 serves: 6
 ---
-Serve casadillas with re-fried beans and shredded greens for a quick and nutritious meal.
+Serve quesadillas with re-fried beans and shredded greens for a quick and nutritious meal.
 
 - 12 soft flour tortillas 
 - shredded mozzeralla cheese
