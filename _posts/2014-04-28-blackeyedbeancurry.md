@@ -1,4 +1,3 @@
-
 ---
 layout: recipe
 title: Black Eyed Bean Curry
@@ -32,3 +31,5 @@ Add 1 t cumin seeds. Stir briefly.  Add onion, garlic and ginger. Stir for a min
 Reduce heat to low and add all remaining spices. Stir well and heat briefly on low heat until fragrant.
 Add canned beans and crushed tomatoes. Stir well. Add salt to taste (about 1 t). 
 Bring to a boil.  Cover and place skillet in hot oven for 20 - 30 minutes.   If making earlier in the day, put the mixture into a crock pot on low until ready to serve.
+
+Serve with fresh naan or rice.
