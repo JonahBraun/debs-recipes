@@ -27,10 +27,16 @@ Hint:  Make a couple of hours before dinner and let simmer in slow cooker or ove
 
 Pre-heat oven to 350°F.  Or plug in crock pot if using that method to finish cooking the curry.
 
-Chop onion, mince garlic, and grate the ginger. Gather all the spices needed, with measuring spoons at hand. Heat oil in large skillet. (If you use a cast iron pan or other oven proof skillet you won't have to transfer later).
+Chop onion, mince garlic, and grate the ginger. Gather all the spices needed, with measuring spoons at hand.
+
+Heat oil in large skillet. (If you use a cast iron pan or other oven proof skillet you won't have to transfer later).
+
 Add 1 t cumin seeds. Stir briefly.  Add onion, garlic and ginger. Stir for a minute or so until the onion begins to brown and wilt. 
+
 Reduce heat to low and add all remaining spices. Stir well and heat briefly on low heat until fragrant.
 Add canned beans and crushed tomatoes. Stir well. Add salt to taste (about 1 t). 
-Bring to a boil.  Cover and place skillet in hot oven for 20 - 30 minutes.   If making earlier in the day, put the mixture into a crock pot on low until ready to serve.
+Bring to a boil.  Cover and place skillet in hot oven for 20 - 30 minutes.   
+
+If making earlier in the day, put the mixture into a crock pot on low until ready to serve.
 
 Serve with fresh naan or rice.
