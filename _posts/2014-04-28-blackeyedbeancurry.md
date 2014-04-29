@@ -25,7 +25,7 @@ Hint:  Make a couple of hours before dinner and let simmer in slow cooker or ove
 - 1 398 ml can crushed tomatoes
 - salt to taste
 
-Heat oven to 350°F, or crock pot if using that method to finish cooking the curry.
+Pre-heat oven to 350°F.  Or plug in crock pot if using that method to finish cooking the curry.
 
 Chop onion, mince garlic, and grate the ginger. Gather all the spices needed, with measuring spoons at hand. Heat oil in large skillet. (If you use a cast iron pan or other oven proof skillet you won't have to transfer later).
 Add 1 t cumin seeds. Stir briefly.  Add onion, garlic and ginger. Stir for a minute or so until the onion begins to brown and wilt. 
