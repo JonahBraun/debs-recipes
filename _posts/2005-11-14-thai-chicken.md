@@ -1,0 +1,28 @@
+---
+layout: recipe
+title: Thai Chicken
+category: poultry
+tags: ㉚
+serves: 4
+---
+This tasty Thai stirfry is easy to make with common ingredients in your kitchen.
+- 1 T oil
+- 1 lb boneless chicken, breasts or thighs
+- 10 oz chicken broth
+- 2 T honey
+- 2 T soy sauce 
+- ¼ c peanut butter
+- 1 T corn starch
+- 1 t ground ginger or 2 tsp fresh grated
+- 2 green onions, cut on the diagonal
+- 2 cloves garlic, minced
+- 1 red pepper, cut into strips
+- hot sauce to taste
+
+
+In skillet, heat oil; saute chicken until golden.  Remove chicken to a plate.
+
+Add broth, honey and soysauce to skillet. Wisk in peanut butter, corn starch,and ginger. Add hot sauce to taste (a little at a time to be safe). Bring to a slow boil until thickened.  Add green onions, garlic and red pepper; cook stirring constantly over low
+heat until blended and smooth. Add reserved chicken. Cook and stir until just bubbly and thickened.
+
+Serve on a bed or rice.
