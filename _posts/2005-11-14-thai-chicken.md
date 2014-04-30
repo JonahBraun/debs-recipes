@@ -18,10 +18,11 @@ This tasty Thai stirfry is easy to make with common ingredients in your kitchen.
 - 2 green onions, cut on the diagonal
 - 2 cloves garlic, minced
 - 1 red pepper, cut into strips
+- 1 small zucchini (optional -  if you want to add more veggies to the dish)
 - hot sauce to taste
 
 
-In skillet, heat oil; saute chicken until golden. Add red pepper and garlic.  Stir fry briefly until pepper and garlic are slightly browned.  Remove all from the skillet to a plate.
+In skillet, heat oil; saute chicken until golden. Add red pepper, zuccini and garlic.  Stir fry briefly until pepper and garlic are slightly browned.  Remove all from the skillet to a plate.
 
 Add broth, honey and soysauce to skillet. Wisk in peanut butter, corn starch,and ginger. Add hot sauce to taste (a little at a time to be safe). Bring to a slow boil until thickened.  Add green onions, stirring briefly over low
 heat until blended and smooth. Add pre-cooked chicken, peppers and garlic. Stir until thoroughly heated through. 
