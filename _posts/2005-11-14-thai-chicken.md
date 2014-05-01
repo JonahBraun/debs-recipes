@@ -8,8 +8,8 @@ serves: 4
 This tasty Thai stirfry is easy to make with common ingredients in your kitchen.
 
 - 1 T oil
-- 1 lb boneless chicken, breasts or thighs
-- 10 oz chicken broth
+- 1 lb boneless chicken, breasts or thighs, cut into bite sized pieces
+- 10 oz (1 ¼ c) chicken broth
 - 2 T honey
 - 2 T soy sauce 
 - ¼ c peanut butter
