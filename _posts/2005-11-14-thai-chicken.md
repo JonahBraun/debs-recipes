@@ -27,4 +27,4 @@ In skillet, heat oil; saute chicken until golden. Add red pepper, zuccini and ga
 Add broth, honey and soysauce to skillet. Wisk in peanut butter, corn starch,and ginger. Add hot sauce to taste (a little at a time to be safe). Bring to a slow boil until thickened.  Add green onions, stirring briefly over low
 heat until blended and smooth. Add pre-cooked chicken, peppers and garlic. Stir until thoroughly heated through. 
 
-Serve on a bed or rice.
+Serve on a bed of rice or rice noodles.
