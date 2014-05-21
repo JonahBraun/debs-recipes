@@ -27,7 +27,9 @@ Crumb Topping
 
 - Sprinkle with cinamon.
 
-Mix butter, eggs, sugar and vanilla together.  Add flour and baking powder.  Slowly add milk until you get a good cake batter consistency.  Pour into greased 9x9 baking pan.  
-Pour applesauce evenly over cake batter.
-Mix topping ingredients until course crumbs are formed.  Sprinkle over applesauce.  Top with desired amount of cinnamon.  
+Mix butter, eggs, sugar and vanilla together.  Add flour and baking powder.  Slowly add milk until you get a good cake batter consistency.  
+Pour into greased 9x9 baking pan.  Pour applesauce evenly over cake batter.
+
+Mix topping ingredients until course crumbs are formed.  Sprinkle over applesauce.  Top with desired amount of cinnamon. 
+
 Bake at 350 for 40-50 minutes.
