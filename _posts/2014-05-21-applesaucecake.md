@@ -11,6 +11,7 @@ Cake
 - ½ c butter
 - 2 eggs
 - 1 t vanilla
+- 1½ cup pure oat flour (pure oat flour is best but you can use other gluten free flours)
 - 1½ baking powder
 - 2 T potato starch
 - ⅓ - ½ c milk 
