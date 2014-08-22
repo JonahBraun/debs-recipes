@@ -8,7 +8,8 @@ By far the tastiest ginger snaps ever, I found this recipe while living in Inuvi
 - 2 c flour
 - ½ t sugar
 - ¾ c butter
-- 1 T ginger&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; 1 egg<br />
+- 1 T ginger
+- 1 egg
 - 1 t cinnamon
 - ¼ c black strap molasses
 - 2 t soda
