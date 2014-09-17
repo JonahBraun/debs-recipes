@@ -1,3 +1,4 @@
+---
 layout: recipe
 title: Stuffed Salmon with Teryaki
 category: seafood
