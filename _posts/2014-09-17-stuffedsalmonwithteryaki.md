@@ -15,7 +15,6 @@ Marinade:
 - ½ c t ground ginger
 - 2 cloves garlic (minsed)
 - ½ t red pepper flakes (sparse)
-
 - 42 oz salmon filets, slit through the thickest part to make pockets for stuffing.
 
 Combine all ingredients.  Pour over salmon filets and let marinate for 30 - 45 minutes.
