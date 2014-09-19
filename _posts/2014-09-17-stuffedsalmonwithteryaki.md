@@ -42,4 +42,5 @@ Prepare homemade teryaki sauce:
 Mix all together and simmer for 4 minutes.
 
 To bake:
+
 Preheat oven to 400 degrees. Remove marinated salmon from pan.  Discard marinade.  Line baking pan with foil. Place filets into pan and stuff with cream cheese mixture.  Bake for 10 - 15 minutes. Coat with home made teryaki sauce and return to oven for another 15 to 20 minutes until salmon changes color and flakes with a fork.
