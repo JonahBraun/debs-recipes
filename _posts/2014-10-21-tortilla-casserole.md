@@ -22,4 +22,3 @@ Saute onion in 1 T cooking oil until onion turns transparent. Add green pepper,g
 Preheat oven to 400 F.  Grease round 10 inch casserole dish. Place 1 tortilla in casserole dish, spread thin layer of cheese, followed by a layer of bean mixture.  Repeat until all tortillas and mixture are used.  End layers with a tortilla and layer of cheese.  Bake for approx. 20 minutes until heated through and cheese is bubbly.
 
 Slice in pie wedges.  Service with sour cream, salsa and avacado slices.
-
