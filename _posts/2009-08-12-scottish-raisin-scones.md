@@ -7,7 +7,7 @@ category: breads
 - 2 c flour
 - 3 T sugar
 - 1 t salt
-- ½ tsp baking soda
+- ½ t baking soda
 - 1 egg yolk
 - ⅓ c butter
 - ½ c raisins
