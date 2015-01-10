@@ -4,6 +4,7 @@ category: pork
 serves: 6
 ---
 Easy recipe to put together, but allow several hours for baking.
+
 Rub:
 - 3 cloves garlic
 - ¾ t pepper
