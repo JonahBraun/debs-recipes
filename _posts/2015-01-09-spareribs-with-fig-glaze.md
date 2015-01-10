@@ -1,3 +1,4 @@
+---
 layout: recipe
 title: Spare Ribs with Fig Glaze
 category: pork
