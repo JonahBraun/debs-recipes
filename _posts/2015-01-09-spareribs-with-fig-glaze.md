@@ -13,6 +13,7 @@ Rub:
 - ½ t sage
 - ½ t thyme
 Blend all together and rub over surfaces of ribs.  Place into baking dish and cover with foil.  Bake at 300 degrees for 2 hours or more.
+
 Meanwhile prepare glaze.
 
 Glaze:
