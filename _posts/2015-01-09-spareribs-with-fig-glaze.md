@@ -20,6 +20,7 @@ Blend all together and rub over surfaces of ribs.  Place into baking dish and co
 Meanwhile prepare glaze.
 
 Glaze:
+
 - ⅔ cup chicken stock, preferably homemade
 - 2 T honey
 - ⅔ cup chicken stock, preferably homemade
