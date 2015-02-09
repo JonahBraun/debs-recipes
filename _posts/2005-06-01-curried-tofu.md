@@ -19,5 +19,4 @@ One pan asian vegetarian meal with Canadian cheddar.
 - ½c diced cheddar cheese
 - ½c peanuts
 
-Heat oil in wok. Add carrots and saute for 2 minutes. Add onions, saute for 2 minutes. Add apple and raisons, saute for 2 minutes.&nbsp; Add curry, 5 spice, soy
-sauce and water. Cover and simmer for a 3 minutes. Add cheddar and peanuts turning heat to low. Cover and allow cheese to melt slightly.&nbsp; Serve immediately over vermicelli.
+Heat oil in wok. Add carrots and saute for 2 minutes. Add onions, saute for 2 minutes. Add apple and raisons, saute for 2 minutes. Add curry powder or paste, 5 spice, soy sauce,tofu and water. Cover and simmer for a 3 minutes. Add cheddar and peanuts turning heat to low. Cover and allow cheese to melt slightly. Serve immediately over vermicelli.
