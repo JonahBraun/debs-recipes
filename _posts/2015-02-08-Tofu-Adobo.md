@@ -6,7 +6,7 @@ tags: Ⓥ ㉚
 ---
 Super easy to make with authentic Mexican flavor.
 
-- 2 pkg extra firm tofu
+- 2 pkg extra firm tofu, cut into 1 inch cubes
 - 4 cloves crushed garlic
 - ½ c vinegar
 - ¼ t pepper
