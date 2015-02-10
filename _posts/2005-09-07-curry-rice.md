@@ -3,7 +3,7 @@ layout: recipe
 title: Curry Rice
 category: sides
 ---
-This rice is really really good! Just like what you get in the Asian restaurants.
+A great tasting recipe to give left over rice a perk-up!
 
 - 2 c cooked rice
 - salt and pepper
