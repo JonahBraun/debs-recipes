@@ -22,4 +22,4 @@ Beat sugar, butter, egg, and orange juice in large mixing bowl. Add all other in
 
 Makes about 3 dozen granola cookies. 
 
-* I substitute 1/2 cup whole wheat flour for white flour.  It doesn't affect the taste and improves the nutititional value.
+*I substitute 1/2 cup whole wheat flour for white flour.  It doesn't affect the taste and improves the nutititional value.
