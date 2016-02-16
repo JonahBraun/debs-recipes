@@ -4,6 +4,7 @@ title: Sweet Potato and Zucchini Bake
 category: sides
 ---
 Another tasty infusion of spices, this side dish works well with any meat dish, especially asian.
+
 - 2 c sweet potato cut into one inch cubes
 - 1 T hot curry paste
 - 1 medium zucchini , sliced into 1/2" rounds
