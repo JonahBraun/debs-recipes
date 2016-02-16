@@ -16,7 +16,7 @@ By far the tastiest ginger snaps ever, I found this recipe while living in Inuvi
 
 Mix dry ingredients.In separate bowl blend butter, sugar, egg and molasses.
 Mix dry and wet ingredients together.
-Make into teasponn sized balls. Roll or dip in white sugar.
+Make into teasponn sized balls. Roll in white sugar, or if you want the cookies less sweet, just dip the tops into sugar.
 Place on greased cookie sheet and press down with fork. 
 Bake at 375F for 10-12 minutes.
 
