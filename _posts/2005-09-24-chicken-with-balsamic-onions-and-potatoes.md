@@ -4,7 +4,7 @@ title: Pan-Seared Chicken With Balsamic Sweet Onions and Potatoes
 category: poultry
 tags: ㉚
 ---
-Simply made skillet supper - ready in abut half an hour.
+Simply made skillet supper - ready in half an hour.
 
 - 4 boneless, skinless checken breasts
 - salt and freshly ground pepper 
