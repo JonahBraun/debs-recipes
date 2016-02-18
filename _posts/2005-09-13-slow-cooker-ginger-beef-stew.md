@@ -20,6 +20,7 @@ Great ginger flavor and easy to make; just throw it all into one pot and let it 
 - 1 T brown sugar
 
 In large casserole dish or slow cooker layer the onion, carrot, water chestnuts and red peppers.
+
 Brown beef in oil. Add ginger and garlic and fry one minute longer. Remove beef from pan and add to slow cooker. Add water, sherry and brown sugar to the pan.  Stir to bring up drippings. 
 Bring to a boil. Pour over vegetables and beef. Do not stir. Cover. Cook on low (275) for 8 hours or (300) for 4 hours. 
 Stir soy sauce into cornstarch in small cup until smooth. Add to crock pot. Stir. Add snow peas. Stir well. Cover and cook at 300 degrees for 10 minutes.
