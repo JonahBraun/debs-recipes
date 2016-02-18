@@ -12,9 +12,13 @@ Quick asian style chops. Serve with a pasta or rice and stir fried veggies.
 - 2 c chopped broccoli, cauliflower, celery or veggies of choice
 - 4 T chicken broth
 - 2 T brown sugar
-- 2 t corn starch 
 - 4 T wheat free tamari sauce 
 - 1 t crushed red pepper
 - 2 T water
+- 2 t corn starch
 
-To make: Heat 1T oil in a wok. Add pork chops; cook until browned and cooked through adding garlic near the end. Revove meat to a plate.  Add veggies to pan. Stir-fry for one or two minutes adding more oil as necessary. Mix remaining ingredients together then add to pan along with pork chops. Simmer until heated through.
+Heat 1T oil in a wok. Add pork chops. Brown on each side adding garlic near the end. Revove meat to a plate.  Add veggies to pan. Stir-fry for one or two minutes adding more oil as necessary. Remove to a dish. Mix broth, sugar and tamari together then add to pan along with pork chops. Simmer on low until meat is cooked through (approx. 20 minutes). 
+
+Mix cornstarch with water.  Add to pan along with veggies. Bring to a boil.  Serve.
+
+
