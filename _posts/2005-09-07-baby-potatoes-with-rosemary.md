@@ -2,6 +2,7 @@
 layout: recipe
 title: Roasted Baby Potatoes with Rosemary
 category: sides
+tags: Ⓥ ㉚
 serves: 4
 ---
 Delicious!
