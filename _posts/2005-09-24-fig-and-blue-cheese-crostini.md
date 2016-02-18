@@ -4,6 +4,7 @@ title: Fig and Blue Cheese Crostini
 category: starters
 ---
 These tny crostini will tantalize you for the meal ahead.
+
 - 4 dried figs
 - salt and freshly ground pepper
 - 1 T balsamic vinegar
