@@ -3,7 +3,7 @@ layout: recipe
 title: Muffin-Sized Pizza Meat Loaves
 category: beef
 ---
-The best mini meat loaf yet!
+The kids really like these!
 
 - 1½ lb ground beef
 - ½ c finely shredded carrot
