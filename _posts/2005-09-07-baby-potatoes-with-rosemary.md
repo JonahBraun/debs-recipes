@@ -3,10 +3,9 @@ layout: recipe
 title: Roasted Baby Potatoes with Rosemary
 category: sides
 serves: 4
-prep: 1 h
 ---
 Delicious!
----
+
 - 2 lb baby potatoes
 - 2 T fresh chopped rosemary leaves
 - 6 cloves garlic, cracked
