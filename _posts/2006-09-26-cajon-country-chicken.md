@@ -5,7 +5,6 @@ category: poultry
 tags: ㉚
 serves: 4
 ---
-
 - 2 T cornstarch
 - 1 medium onion, sliced
 - 1 t curry powder
@@ -15,8 +14,7 @@ serves: 4
 - 2 T oil, divided
 - 1 green pepper, slivered
 
-Combine cornstarch, curry powder and thyme and spread on a large square of waxed paper. Lay chicken strips onto mixture and flip to coat the
-strips on both sides. Heat 1 tbs oil in large frying pan over medium heat.
+Combine cornstarch, curry powder and thyme and spread on a large square of waxed paper. Lay chicken strips onto mixture and flip to coat the strips on both sides. Heat 1 tbs oil in large frying pan over medium heat.
 
 Saute green pepper and onion for 3 minutes until tender.Remove from pan.
 
