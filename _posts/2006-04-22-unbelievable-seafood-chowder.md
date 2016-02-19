@@ -3,7 +3,7 @@ layout: recipe
 title: Unbelievable Seafood Chowder
 category: soups
 ---
-Tasty and creamy
+Tasty and creamy!
 
 - 1 onion diced
 - 2 cloves garlic
@@ -23,7 +23,7 @@ Tasty and creamy
 - salt and pepper to taste
 - parsley or cilantro for garnish
 
-Melt butter and saute onion and carrot until onion is clear. Add garlic and saute for half a minute. Add worcestershire sauce, old bay seasoning, salt and pepper. 
+Melt butter and saute onion and carrot until onion is clear. Add garlic and saute for half a minute. Add worcestershire sauce, old bay seasoning, salt and pepper.
 
 Add clam juice and bring to boil. Add oysters and crab and simmer.
 
