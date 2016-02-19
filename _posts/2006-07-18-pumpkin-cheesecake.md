@@ -8,7 +8,7 @@ Tastes as good as it looks.
 Crust:
 
 - ¼ cup butter
-- 1¼ cups ginger snaps, crushed (can be found where graham crackers and vanilla wafers are)
+- 1¼ c ginger snaps, crushed (can be found where graham crackers and vanilla wafers are)
 
 Mix together crust ingredients and press into pie pan. Bake crust at 350 for about 8 minutes.
 
@@ -16,9 +16,9 @@ Filling:
 
 - 250 gm cream cheese
 - 1 c plain greek yogurt
-- ⅔ cup suger 
+- ½ c suger 
 - 2 eggs
-- 1¾ cups cooked mashed pumpkin 
+- 1¾ c cooked mashed pumpkin 
 - ½ t cinamon
 - ½ t nutmeg 
 - ½ t ginger
