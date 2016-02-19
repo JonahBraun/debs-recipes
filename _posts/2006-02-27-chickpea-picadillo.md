@@ -19,7 +19,7 @@ Great Vegan Dish
 - 1/2 t salt
 - 2 bay leaves
 - 1 inch piece cinnamon stick
-
+- 
 Saute onion and mushrooms for a few minutes until soft. Add ginger and garlic for 30 seconds to brown. Transfer to slow cooker along with remaining ingredients.
 Start on high for one hour. Continue cooking on low heat for several hours so that all the flavors absorb into the beans.
 
