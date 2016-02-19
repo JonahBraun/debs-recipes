@@ -12,7 +12,7 @@ Tasty and creamy!
 - ¼ c butter
 - 1 can oysters with liquid
 - 1 can smoked oysters
--  1 c crab meat
+- 1 c crab meat
 - 1 c clam juice 
 - 1 T worcestershire sauce
 - 1 T flour
