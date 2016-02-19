@@ -3,7 +3,7 @@ layout: recipe
 title: Smoked Salmon & Spinach Pizza
 category: seafood
 ---
-This recipe curtesy of Ryan and Amanda. It is absolutely deliciious!
+This recipe curtesy of Ryan and Amanda. It is absolutely delicious!
 
 - 1 extra large or 2 medium pizza crusts
 - creamy caesar dressing (see recipe for Caesar Salad Dressing)
