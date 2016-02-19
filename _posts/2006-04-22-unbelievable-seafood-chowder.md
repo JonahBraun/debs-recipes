@@ -3,10 +3,9 @@ layout: recipe
 title: Unbelievable Seafood Chowder
 category: soups
 ---
-
 Tasty and creamy!
 
-- 1 onion, diced
+- 1 onion diced
 - 2 cloves garlic
 - ½ red pepper
 - 1 carrot
