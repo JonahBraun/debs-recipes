@@ -15,14 +15,14 @@ Chocolate, chocolate, chocolate cookies.
 - ½ t salt<br />
 - 1½ c chopped toasted peacans
 - 1½ c chopped toasted walnuts
-- 1 pkg semi-sweet chocolate chips (can be substituted with white chocolate chips
+- 1 pkg semi-sweet chocolate chips (can be substituted with white chocolate chips)
 
-*Melt chocolate squares with butter over low heat. Stir until smooth; cool to room temperature.Beat eggs with sugar on high
-speed in mixer until ribbons are formed when beaters are lifted, about 5 minutes. Beat in chocolate mixture and vanilla.Stir in
-flour, baking powder and salt just until combined.&nbsp; Stir inchocolate chips and nuts. 
+Melt chocolate squares with butter over low heat. Stir until smooth; cool to room temperature. Beat eggs with sugar on high
+speed in mixer until ribbons are formed when beaters are lifted, about 5 minutes. Beat in chocolate mixture and vanilla. Stir in
+flour, baking powder and salt just until combined. Stir in chocolate chips and nuts. 
 
-Drop by heaping tbs onto greased baking sheets. 
+Drop by heaping tablespoon onto greased baking sheets. 
 
 Bake at 325 for 10 minutes.  Cool for 2 min then transfer cookies to wire rack to cool completely.
 
-* A double boiler or bowl set in a pot of simmering water works well for this.
+Note: A double boiler or bowl set in a pot of simmering water works well for melting the chocolate.
