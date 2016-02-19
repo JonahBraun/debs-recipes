@@ -5,7 +5,7 @@ category: salads
 ---
 Here's a salad to impress your dinner guests.
 
-Nuts:
+First Prepare Nuts:
 
 - ½ c pecans
 - ¼ c white sugar
@@ -13,7 +13,8 @@ Nuts:
 In a skillet over medium heat, stir the sugar together with the pecans. Continue stirring gently until sugar has melted
 and carmelized the pecans. Immediately transfer nuts onto waxed paper. Allow to cool, then break into pieces.
 
-Dressing:
+The Dressing:
+
 - 3 T red wine vinegar
 - ⅓ c olive oil
 - 1½ t white sugar
