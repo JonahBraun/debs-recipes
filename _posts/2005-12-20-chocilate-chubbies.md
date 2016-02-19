@@ -12,7 +12,7 @@ Chocolate, chocolate, chocolate cookies.
 - 2 t vanilla
 - ⅔ c flour
 - ½ t baking powder
-- ½ t salt<br />
+- ½ t salt
 - 1½ c chopped toasted peacans
 - 1½ c chopped toasted walnuts
 - 1 pkg semi-sweet chocolate chips (can be substituted with white chocolate chips)
