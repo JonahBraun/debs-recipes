@@ -10,7 +10,7 @@ category: desserts
 - 1 c sugar
 - 1½ c flour
 - 1 t vanilla
-
+- 
 Separate eggs; the whites in a smaller mixing bowl and the yolks in the large mixing bowl. Add 1/2 tsp Cream of tartar to whites and beat until very stiff. Set aside.
 
 Add cups cold water to yolks. Beat for 5 minutes.
