@@ -2,7 +2,7 @@
 layout: recipe
 title: SanFrancisco Pork Chops
 category: pork
-tags: ㉚ ɠ
+tags: ㉚
 serves: 4
 ---
 Quick asian style chops. Serve with a pasta or rice and stir fried veggies.
@@ -17,8 +17,6 @@ Quick asian style chops. Serve with a pasta or rice and stir fried veggies.
 - 2 T water
 - 2 t corn starch
 
-Heat 1T oil in a wok. Add pork chops. Brown on each side adding garlic near the end. Revove meat to a plate.  Add veggies to pan. Stir-fry for one or two minutes adding more oil as necessary. Remove to a dish. Mix broth, sugar and tamari together then add to pan along with pork chops. Simmer on low until meat is cooked through (approx. 20 minutes). 
+Heat 1T oil in a wok. Add pork chops. Brown on each side adding garlic near the end. Remove meat to a plate.  Add veggies to pan. Stir-fry for one or two minutes adding more oil as necessary. Remove to a dish. Mix broth, sugar and tamari together then add to pan along with pork chops. Simmer on low until meat is cooked through (approx. 20 minutes). 
 
 Mix cornstarch with water.  Add to pan along with veggies. Bring to a boil.  Serve.
-
-
