@@ -12,6 +12,7 @@ The perfect food for Pooh Baby and mommy. The muffins are high in iron, other mi
 - 1½ c plain yogurt
 - 2 beaten eggs
 - ½ c blackstrap molasses
+- ½ c raisons (optional)
 
 Combine dry ingredients. 
 
