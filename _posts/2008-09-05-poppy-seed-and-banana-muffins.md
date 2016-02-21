@@ -3,7 +3,7 @@ layout: recipe
 title: Poppy Seed and Banana Muffins
 category: breads
 ---
-- ½ c milk or ½ cup unsweetened plain yogurt 
+- ½ c milk or unsweetened plain yogurt 
 - 1¼ c whole wheat flour
 - 2 t lemon juice
 - ⅓ c poppy seeds
