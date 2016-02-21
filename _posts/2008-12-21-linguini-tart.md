@@ -3,6 +3,7 @@ layout: recipe
 title: Linguini Tart
 category: vegi
 ---
+
 - 1 baguette, sliced into 1/2 inch pieces
 - 1/4 cup sundried tomato and oregano dressing
 
