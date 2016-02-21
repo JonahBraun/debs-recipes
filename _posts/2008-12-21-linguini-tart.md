@@ -3,12 +3,10 @@ layout: recipe
 title: Linguini Tart
 category: vegi
 ---
-Heat oven to 400 degrees.
-
 - 1 baguette, sliced into 1/2 inch pieces
 - 1/4 cup sundried tomato and oregano dressing
 
-Brush slices of bread with dressing. Place slices on baking sheet. Bake for 8 to 10 minutes or until lightly browned. Reduce heat to 350. Line bottom and sides of a 10 inch springform pan with bread, allowing bread to come 1 inch over sides.
+Brush slices of bread with dressing. Place slices on baking sheet. Bake under broiler for a few minutes or until lightly browned (watch carefully). Heat oven to 350. Line bottom and sides of a 10 inch springform pan with bread slices, cutting to fit, and allowing bread to come 1 inch over sides.
 
 - ⅔ c mayonaise
 - ¼ c flour
