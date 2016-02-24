@@ -20,6 +20,7 @@ Under broiler, brown chicken and vegis. Add spices and combine until evenly coat
 
 Serve immediately spooned over Cheese and Jalapeno Corn Flap Jacks.
 
+
 Cheese & Jalapeno Corn Flap Jacks
 
 - 1⅓ c corn meal
