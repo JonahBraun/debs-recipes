@@ -3,6 +3,7 @@ layout: recipe
 title: Rotini With Sausage & Asparagus
 category: beef
 ---
+
 - 1 ½ lbs rotini
 - 12 oz sweet or hot Italian sausage
 - 1½ lbs asparagus, fresh
