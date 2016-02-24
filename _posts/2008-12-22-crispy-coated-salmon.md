@@ -14,7 +14,7 @@ category: seafood
 - 1 egg beaten
 - 2 T oil
   
-  Combine bread crumbs, parmesan cheese and seasonings. Place seasoned crumbs on a large flat plate. Pour beaten egg onto a secnd plate. Dip salmon in beaten egg and then in seasoned crumbs, pressing firmly. Regrigerate coated steaks 1/2 hour to help coating adhere. Heat frying pan; add butter and oil. When butter melts, fry steaks for 10 min. per inch of thickness, turning once halfway.
+Combine bread crumbs, parmesan cheese and seasonings. Place seasoned crumbs on a large flat plate. Pour beaten egg onto a second plate. Dip salmon in beaten egg and then in seasoned crumbs, pressing firmly. Regrigerate coated steaks 1/2 hour to help coating adhere. Heat frying pan; add butter and oil. When butter melts, fry steaks for 10 min. per inch of thickness, turning once halfway.
   
   Serve immediately with Honey Lime Sauce or Warm Cucumber Sauce if desired.
   
@@ -28,9 +28,9 @@ category: seafood
   - ¼ t curry powder
   - 2 T lime juice
     
-    Warm Cucumber Sauce
+  Warm Cucumber Sauce
     
-    Mix together and heat gently:
+  Mix together and heat gently:
     
     - ½ c sour cream
     - ½ t dill weed
