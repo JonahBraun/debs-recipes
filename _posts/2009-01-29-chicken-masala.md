@@ -13,7 +13,7 @@ category: poultry
 - 2 t coriander powder
 - ¼ c oil
 - salt to taste
-  
+
 Cut chicken into bite sized pieces. Marinate in yogurt and salt for one hour. Heat oil and fry onion with turmeric. Add ginger, garlic, chili and coriander.Stir well. Add chicken and brown. Add 1/2 cup of water and bring to a simmer. Cover and simmer until chicken is done.
   
-  Serve with rice.
+Serve with rice.
