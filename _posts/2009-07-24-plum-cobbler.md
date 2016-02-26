@@ -3,7 +3,7 @@ layout: recipe
 title: Plum Cobbler
 category: desserts
 ---
-This recipe works well with peaches or fresh sour cherries.
+This recipe works well with peaches or fresh sour cherries as well.
 
 - 4 c quartered pitted prune plums
 - ½ t salt
