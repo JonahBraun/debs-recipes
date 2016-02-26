@@ -18,8 +18,8 @@ category: beef
 - ½ c shredded cheddar cheese
 - chopped cilantro
   
-Brown ground beef with onions in a large skillet. Transfer to oven proof casserole. Stir in all remaining ingredients except cheese and cilantro. 
+Brown ground beef with onions in a large skillet. Transfer to oven proof casserole. Stir in all remaining ingredients except cheese and cilantro.
   
 Bake at 325 degrees for 40 minutes. Sprinkle with cheddar cheese and bake for additional 10 to 15 minutes until cheese is melted and bubbly.
   
-Garnish with fresh cilantro. 
+Garnish with fresh cilantro.
