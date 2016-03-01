@@ -3,7 +3,7 @@ layout: recipe
 title: Avocado Dressing
 category: salads
 ---
-- 1 large avocado, peeled and mashed with 2 tbs lemon juice
+- 1 large avocado, peeled and mashed with 2 T lemon juice
 - 1 c mayonnaise
 - ½ c sour cream or plain regular fat yogurt
 - ½ tsp worchestershire sauce
