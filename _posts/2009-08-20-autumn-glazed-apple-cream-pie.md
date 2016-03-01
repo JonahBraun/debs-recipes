@@ -3,7 +3,6 @@ layout: recipe
 title: Autumn GLazed Apple Cream Pie
 category: desserts
 ---
-
 - 1 can condensed milk
 - 1½ c sour cream or greek yogurt
 - ¼ c frozen apple juice concentrate, thawed
@@ -13,7 +12,7 @@ category: desserts
 - 2 apples, peeled and sliced
 - 2 T butter
 - ½ c apricot jam, warmed
-  
+- 
 Whisk together condensed milk, sour cream, juice concentrate, egg and vanilla. Pour into pie crust.
 
 Bake in preheated 350 F oven for 25 - 30 minutes or until center is set. Cool. 
