@@ -3,6 +3,7 @@ layout: recipe
 title: Autumn GLazed Apple Cream Pie
 category: desserts
 ---
+
 - 1 can condensed milk
 - 1½ c sour cream or greek yogurt
 - ¼ c frozen apple juice concentrate, thawed
