@@ -3,6 +3,7 @@ layout: recipe
 title: Marvelous Milk Eggnog
 category: beverages
 ---
+
 - 4 c milk
 - 4 eggs
 - 4 T mild honey
