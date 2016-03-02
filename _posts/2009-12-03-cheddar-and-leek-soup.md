@@ -12,7 +12,7 @@ category: soups
 - 1 bottle English style ale
 - ¼ t salt
 - ½ c whipping cream
-- 12 oz (about 4 cups ) aged Cheddar cheese shredded
+- 12 oz or about 4 cups aged Cheddar cheese, shredded
 - 2 t hot mustard
 - ½ t Worcestershire sauce
 - ¼ t pepper
