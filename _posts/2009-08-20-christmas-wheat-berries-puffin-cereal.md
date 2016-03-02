@@ -3,7 +3,7 @@ layout: recipe
 title: Christmas Wheat Berries (Puffin Cereal)
 category: misc
 ---
-This is one of the twelve meatless Ukranian Christmas dishes typically served on Christmas Eve. Our family enjoys it on Christmas morning along with other foods for our brunch.
+This is one of the twelve meatless Ukranian Christmas dishes typically served on Christmas Eve. Our family enjoys it on Christmas morning along with other foods for our brunch. When the kids were little they nick-named the cereal "Puffin Cereal".
 
 - 1½ c wheat
 - 3 c water
