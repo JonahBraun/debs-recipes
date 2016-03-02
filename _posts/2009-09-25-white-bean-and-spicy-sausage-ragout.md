@@ -3,7 +3,7 @@ layout: recipe
 title: White Bean and Spicy Sausage Ragout
 category: pork
 ---
-Basil & Walnut Pesto
+Pesto
 
 - 1 c tightly packed fresh basil leaves
 - 1 large galic clove, peeled
@@ -11,9 +11,9 @@ Basil & Walnut Pesto
 - ⅓ c olive oil
 - ⅓ c freshly grated Parmigiano Reggiano cheese
 - salt and pepper to taste
-  
+
 Combine all in a food processor or blender. Buzz until well blended. Set aside.
-  
+ 
 Ragout
 
 - 2½ T olive oil, divided
