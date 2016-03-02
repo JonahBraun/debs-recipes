@@ -10,7 +10,7 @@ This is one of the twelve meatless Ukranian Christmas dishes typically served on
 - 2 T poppy seeds
 - ¼ t salt
 - 2 T honey
-- 
+
 In a slow cooker, soak the wheat in water in the morning the day before you want to serve it. In the evening add poppy seed, honey and salt. Cover and cook the wheat overnight on low.
 
 In the morning, drain off excess water, if any. Serve hot in dessert bowls with whipping cream and a drizzle of honey.
