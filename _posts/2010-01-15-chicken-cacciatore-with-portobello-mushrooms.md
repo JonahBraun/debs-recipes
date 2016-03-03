@@ -12,8 +12,8 @@ Serves 6
 - 3 medium portobello mushrooms, stems and gills removed, diced into 3/4 inch cubes
 - 4 cloves of garlic minced
 - 2 T flour
-- 1 1/2 c dry red wine
-- 1/2 c chicken broth
+- 1½ c dry red wine
+- ½ c chicken broth
 - 1 14.5 oz can diced tomatoes, drained
 - 2 t minced fresh thyme leaves
 - 1 Parmesan cheese rind
