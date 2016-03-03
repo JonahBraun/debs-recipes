@@ -21,7 +21,7 @@ Brush slices of bread with dressing. Place slices on baking sheet. Bake under br
   
 Blend miracle whip and flour in medium saucepan. Whisk in milk. Cook, stirring, over medium heat until sauce comes to a boil and thickens. Remove from heat; stir in parmesan cheese.
 
-Combine cooked linguine with egges, 1 1/4 cups swiss cheese, green onions and cheese sauce.
+Combine cooked linguine with eggs, 1 cup swiss cheese, green onions and cheese sauce.
 
 Pour into prepared crust. 
 
