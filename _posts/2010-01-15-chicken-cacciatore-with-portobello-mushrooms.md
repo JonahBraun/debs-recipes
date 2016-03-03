@@ -5,24 +5,24 @@ category: poultry
 ---
 Serves 6
   
-- 8 bone-in, skin-on chicken pieces
+- 8 bone-in, skin-on, chicken pieces
 - salt and pepper to taste
 - 2 T olive oil
 - 1 medium onion, chopped
 - 3 medium portobello mushrooms, stems and gills removed, diced into 3/4 inch cubes
-- 4 cloves of garlic minced
+- 4 cloves of garlic, minced
 - 2 T flour
 - 1½ c dry red wine
 - ½ c chicken broth
 - 1 14.5 oz can diced tomatoes, drained
 - 2 t minced fresh thyme leaves
-- 1 Parmesan cheese rind
 - 2 t minced fresh sage leaves
+- 1 Parmesan cheese rind
   
 Preheat oven to 325 F.
 Season chicken with salt and pepper. Heat olive oil in an ovenproof skillet over medium high heat.
 
-Fry chicken skin side down in batches until skin is crisp and well browned;  about 5 minutes. Turn and brown second side, about 5 minutes longer.
+Fry half the chicken (what fits in the pan) in a single layer skin side down until skin is crisp and well browned; about 5 minutes. Turn and brown second side, about 5 minutes longer.
 
 Transfer to a large plate and repeat with remaining chicken. Set chicken aside.
 
