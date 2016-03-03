@@ -20,11 +20,10 @@ This is a perfect side dish for bison or other wild game. Serves 4.
 - 2/3 c toasted slivered almonds
 - 1/4 c chopped fresh parsely
 - salt and freshly ground pepper to taste
-  
+
 Cook rice in chicken broth until fluffy. Set aside.
 
 In a large heavy saucepan over medium heat, melt the butter. Add the onion, celery, carrot, mushrooms and saute until tender, about 5 to 6 minutes.
 
 Add garlic, pepper, sage and thyme, and continue to saute for 30 seconds.  Stir in the dried cranberries, toasted almonds and chopped parsley. Season to taste with salt and pepper.
-
 Remove from heat, cover, and allow to rest for 5 minutes before serving.
