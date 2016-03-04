@@ -12,4 +12,4 @@ Play Dough
 - 2 c boiling water
 - food coloring
   
-Mix salt and cooking oil together. Add boiling water and food coloring. Mix in flour and alum or cream of tartar
+Mix salt and cooking oil together. Add boiling water and food coloring. Mix in flour and alum or cream of tartar. Knead to dough consistency.
