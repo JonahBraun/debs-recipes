@@ -6,6 +6,7 @@ category: beef
 Serves 6
 
 This recipe is for a slow cooker.
+
 - 2 tbs vegetable oil
 - 2 lb lean stewing beef, trimmed of fat and cut into 1 inch cubes
 - 1/4 c water
@@ -33,7 +34,7 @@ Red Chile Sauce
 - 4 c water
 - salt to taste
   
-In large skillet heat the oil over medium high heat. Add the garlic and cook, stirring for 1 - 2 minutes, do not let it brown. Stir in the flour. Reduce the heat to medium and add the chile powder, chile burns very easily, so keep stirring. Stir in the water. Raise the heat to medium high and let the sauce come to a simmer. Season with salt. 
+In large skillet heat the oil over medium high heat. Add the garlic and cook, stirring for 1 - 2 minutes, do not let it brown. Stir in the flour. Reduce the heat to medium and add the chile powder, chile burns very easily, so keep stirring. Stir in the water. Raise the heat to medium high and let the sauce come to a simmer. Season with salt.
 
 The sauce is ready to use as is, but if you want a thicker sauce, let it summer for 10 - 15 minutes.
 
