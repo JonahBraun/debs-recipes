@@ -7,7 +7,7 @@ Truly a Canadian prairie recipe, this dessert is both nutritious and delicious!
 
 - 2 c diced rhubarb
 - ½ c saskatoon berry jam
-- - 1½ c raspberries
+- 1½ c raspberries
  
 Mix rhubarb and jam together in medium casserole dish. Top with raspberries.
 
