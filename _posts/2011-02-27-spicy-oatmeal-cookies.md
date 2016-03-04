@@ -12,7 +12,7 @@ These cookies aren't overly sweet. The secret to the great flavor is using real 
 - 1 cup whole wheat flour
 - 2½ cups quick cooking rolled oats
 - 1 cup white unbleached flour
-- 1/2 t baking soda
+- ½ t baking soda
 - 1 t baking powder
 - 1 t salt
 - ½ t cinnamon
