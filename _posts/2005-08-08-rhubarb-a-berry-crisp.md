@@ -5,10 +5,10 @@ category: desserts
 ---
 Truly a Canadian prairie recipe, this dessert is both nutritious and delicious!
 
-Mix together in medium casserole dish
-
 - 2 c diced rhubarb
 - ½ c saskatoon berry jam
+ 
+Mix together in medium casserole dish
 
 Top with
 
