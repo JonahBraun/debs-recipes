@@ -9,7 +9,7 @@ This recipe is for a slow cooker.
 - 2 tbs vegetable oil
 - 2 lb lean stewing beef, trimmed of fat and cut into 1 inch cubes
 - 1/4 c water
-- *3 to 4 c red chile sauce (recipe below) or one 28 oz can of red chile sauce or enchilada sauce
+- 3 to 4 c red chile sauce (recipe below) or one 28 oz can of red chile sauce or enchilada sauce
 - 4 to 5 medium russet potatoes, peeled and cut into 2 in chunks
   
 Put the potatoes into the crock. In large heavy skillet, heat the oil over medium high heat. 
