@@ -33,7 +33,7 @@ Red Chile Sauce
 - 1 c red chile powder; not regular chile powder, but actual ground red chiles, found at Paraiso Tropical in Edmonton
 - 4 c water
 - salt to taste
-  
+
 In large skillet heat the oil over medium high heat. Add the garlic and cook, stirring for 1 - 2 minutes, do not let it brown. Stir in the flour. Reduce the heat to medium and add the chile powder, chile burns very easily, so keep stirring. Stir in the water. Raise the heat to medium high and let the sauce come to a simmer. Season with salt.
 
 The sauce is ready to use as is, but if you want a thicker sauce, let it summer for 10 - 15 minutes.
