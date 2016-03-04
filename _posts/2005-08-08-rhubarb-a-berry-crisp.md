@@ -7,16 +7,16 @@ Truly a Canadian prairie recipe, this dessert is both nutritious and delicious!
 
 Mix together in medium casserole dish
 
-- 2 cups diced rhubarb
-- ½ cup saskatoon berry jam
+- 2 c diced rhubarb
+- ½ c saskatoon berry jam
 
 Top with
 
-- 1½ cups raspberries
+- 1½ c raspberries
 
 Blend with pastry knife or fingers
 
-- 1½ cups Best Granola (Deb's recipe)
+- 1½ c Best Granola (Deb's recipe)
 - ½ c flour
 - ½ c butter
 - 2 T brown sugar
