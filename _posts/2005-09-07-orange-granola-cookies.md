@@ -5,7 +5,7 @@ category: desserts
 ---
 This is Simone's favorite granola cookies recipe.  Healthy treats for the kids!
 
-- 2 ¼ c all-purpose flour (substitute 1/2 cup whole grain flour for white flour for added nutititional value
+- 2 ¼ c all-purpose flour (substitute 1/2 cup whole grain flour for white flour for added nutititional value)
 - ⅔ c sugar
 - ½ c butter
 - ¼ c orange juice (or 1/2 orange - remove and reserve zest to add to batter later. Remove remaining peel then puree orange until smooth) 
