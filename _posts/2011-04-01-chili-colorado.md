@@ -23,9 +23,9 @@ Note. If the sauce you are using is too spicy, you can also substitute some of t
 
 Red Chile Sauce
 
-- 1/4 c vegetable oil
+- ¼ c vegetable oil
 - 2 cloves garlic, finely minced
-- 1/4 c flour
+- ¼ c flour
 - 1 c red chile powder; not regular chile powder, but actual ground red chiles, found at Paraiso Tropical in Edmonton
 - 4 c water
 - salt to taste
