@@ -21,7 +21,7 @@ Add half the beef to the skillet and allow to brown well on all sides, about 5 m
 
 As the beef browns, remove it with a slotted spoon to the slow cooker. Repeat with the remaining beef. Pour off the fat from the pan.
 
-Return the pan to the heat, add the water, and bring to a boil, scraping up any browned bits stuck to the pan. Pour into the crock. Add the chile sauce to the skillet, bring to a boil and pour it into the crock. Cover and cook on low for 5 - 7 hours.
+Return the pan to the heat, add the water, and bring to a boil, scraping up any browned bits stuck to the pan. Pour into the crock. Add the chile sauce to the skillet, bring to a boil and pour it into the crock. Cover and cook on low for 5 to 7 hours.
 
 Note. If the sauce you are using is too spicy, you can also substitute some of the sauce for stewed tomatoes. 
 
