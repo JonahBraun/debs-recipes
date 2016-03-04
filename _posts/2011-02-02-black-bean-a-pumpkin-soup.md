@@ -16,7 +16,7 @@ Great served with quesadillas or tortilla chips
 - 1 yellow onion, chopped
 - 4 cloves garlic, crushed
 - 1½ tsp ground cumin
-- 4 c beef (or vegetable) broth
+- 4 c beef or vegetable broth
 - salt and black pepper to taste
 - 2 T red wine vinegar
 - sour cream or greek yogurt for garnish
