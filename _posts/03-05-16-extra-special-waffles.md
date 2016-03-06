@@ -7,11 +7,11 @@ category: misc
 - 1 T sugar 
 - 3 eggs
 - 2 t vanilla
-- 3 t baking powder
-- ½ t salt
 - ¼ t nutmeg
 - ½ t cinamon
 - ½ c plain unsweetened yogurt
+- 3 t baking powder
+- ½ t salt
 - 2 c flour
 - 1 c milk
 
