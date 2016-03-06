@@ -4,7 +4,7 @@ title: Chicken Paprika
 category: poultry
 
 ---
-Excellent with hot buttered noodles.
+This recipe has been adapted from an old McCormick Spices Around the World Cookbook. It has been a family favorite for years. Excellent with hot buttered noodles.
 
 - 1 3 lb chicken cut into pieces, skin on
 - ¼ c flour
