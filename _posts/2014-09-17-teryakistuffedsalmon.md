@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Stuffed Salmon with Teryaki
+title: Teryaki Stuffed Salmon
 category: seafood
 tags: ɠ
 serves: 4 - 6  
