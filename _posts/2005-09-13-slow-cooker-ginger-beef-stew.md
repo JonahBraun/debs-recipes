@@ -8,8 +8,8 @@ Great ginger flavor and easy to make.
 - 2 large carrots, sliced diagonally
 - 1 can water chestnuts, drained
 - 1 c red peppers, cut into strips
-- 1 onion cut into wedges
 - 1 ½ lbs. beef cut into bite sized pieces
+- 1 onion cut into wedges
 - 2 cloves garlic minced
 - 2 T grated ginger
 - 1 c snow peas
