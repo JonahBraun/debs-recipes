@@ -15,9 +15,10 @@ Great ginger flavor and easy to make.
 - 1 c snow peas
 - ¼ c sherry
 - ⅔ c water
+- 1 T brown sugar
 - 3 T soy sauce
 - 1 T cornstarch 
-- 1 T brown sugar
+
 
 In large casserole dish or slow cooker layer the carrot, water chestnuts and red peppers.
 
