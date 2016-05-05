@@ -6,7 +6,8 @@ tags: ㉚
 ---
 On a hot, hot summer day try these cool pizzas. 
 
-Purchase prebaked pizza crusts, pita pockets or flat bread.  Top with one of the following tasty combos or create your own.
+Purchase prebaked pizza crusts, pita pockets or flat bread.  Top with one of the following tasty combos or create your own. 
+Hint: Be generous with the first layer of creamy spread.
 
 Seafood
 
