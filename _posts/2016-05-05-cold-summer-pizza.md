@@ -4,7 +4,7 @@ title: Cold Summer Pizza
 category: misc
 tags: ㉚
 ---
-On a hot, hot summer day try this cool pizza. 
+On a hot, hot summer day try these cool pizzas. 
 
 Purchase prebaked pizza crusts, pita pockets or flat bread.  Top with one of the following tasty combos or create your own.
 
