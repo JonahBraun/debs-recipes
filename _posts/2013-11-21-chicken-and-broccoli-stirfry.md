@@ -2,8 +2,9 @@
 layout: recipe
 title: Chicken and Veggie Stir Fry
 category: poultry
-serves: 4
 ---
+serves: 4
+
 Chicken and marinade:
 - 1lb chicken breasts and/or thighs cut into thin strips
 - 3 scallions, whites only, thinly sliced on an angle or one small onion sliced
