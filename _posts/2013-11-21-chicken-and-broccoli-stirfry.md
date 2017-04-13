@@ -6,6 +6,7 @@ category: poultry
 serves: 4
 
 Chicken and marinade:
+
 - 1lb chicken breasts and/or thighs cut into thin strips
 - 3 scallions, whites only, thinly sliced on an angle or one small onion sliced
 - 1 clove garlic, minced
@@ -15,6 +16,7 @@ Chicken and marinade:
 - 1t salt
 - 1T dry sherry
 - 1T sesame oil
+
 Mix chicken and marinade ingredients together in a bowl. Cover and marinate for 15 minutes or longer.
 
 Vegetables:
@@ -22,6 +24,7 @@ Meanwhile cut 5 cups of vegetables into large bite sized pieces. Try broccoli, c
 
 Sauce:
 In a small bowl mix all the following ingredients. Set aside.
+
 - 1 clove garlic minced
 - 1 inch piece ginger, minced
 - 1T hoison sauce
