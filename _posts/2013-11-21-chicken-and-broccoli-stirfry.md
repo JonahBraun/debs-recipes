@@ -2,7 +2,6 @@
 layout: recipe
 title: Chicken and Veggie Stir Fry
 category: poultry
-tags: 
 serves: 4
 ---
 Chicken and marinade:
