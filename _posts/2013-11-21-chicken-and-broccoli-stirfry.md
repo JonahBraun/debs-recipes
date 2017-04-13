@@ -34,7 +34,7 @@ In a small bowl mix all the following ingredients. Set aside.
 - 1 c water
 
 Now time to put it all together.
----
+
 Drain marinated chicken reserving marinade to add to the sauce mixture. 
 Heat 2T oil in wok. Saute chicken in wok until browned and cooked through. Remvove to a bowl.  
 Add another T of oil to wok. Add all the chopped veggies.  Stir fry 2 to 3 min.  
