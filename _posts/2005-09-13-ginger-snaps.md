@@ -3,16 +3,16 @@ layout: recipe
 title: Ginger Snaps
 category: desserts
 ---
-By far the tastiest ginger snaps ever, I found this recipe while living in Inuvik.
+By far the tastiest ginger snaps ever; I found the recipe while living in Inuvik.
 
-- 2 c flour
 - ½ c sugar
 - ¾ c butter
-- 1 T ginger
 - 1 egg
-- 1 t cinnamon
 - ¼ c black strap molasses
-- 1½ t soda
+- 1 T ginger
+- 1 t cinnamon
+- 2 c flour
+- 1 t soda (rounded)
 
 Mix dry ingredients.In separate bowl blend butter, sugar, egg and molasses.
 Mix dry and wet ingredients together.
