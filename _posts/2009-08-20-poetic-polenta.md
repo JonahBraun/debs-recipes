@@ -7,7 +7,7 @@ category: sides
 - 1 t salt
 - 1 c cornmeal (medium grind)
 - 1 T butter
-- ⅓ c parmesan cheese
+- ⅓ c parmesan cheese (optional)
 
 Add water and cornmeal to cooking pot. Bring to a boil and then reduce heat to simmer stirring frequently.
 After about 30 minutes the mixture will become quite thick. Stir in the butter and parmesan cheese. Continue to cook until the mixture is very thick and starts to come away from the side of the pot.
