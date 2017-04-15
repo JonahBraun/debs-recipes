@@ -11,7 +11,7 @@ Chicken and marinade:
 - 3 scallions, whites only, thinly sliced on an angle or one small onion sliced
 - 1 clove garlic, minced
 - 1 inch piece of ginger, minced
-- 1T Tamari
+- 1T soy sauce
 - 1t cornstarch
 - 1t salt
 - 1T dry sherry
@@ -29,7 +29,7 @@ In a small bowl mix all the following ingredients. Set aside.
 - 1 inch piece ginger, minced
 - 1T hoison sauce
 - ¾t hot red pepper flakes (optional)
-- ¾ c good quality soy sauce
+- ¾ csoy sauce
 - 1T cornstarch or arrowroot powder
 - 1 c water
 
