@@ -29,7 +29,7 @@ In a small bowl mix all the following ingredients. Set aside.
 - 1 inch piece ginger, minced
 - 1T hoison sauce
 - ¾t hot red pepper flakes (optional)
-- ¾ csoy sauce
+- ¾ c soy sauce
 - 1T cornstarch or arrowroot powder
 - 1 c water
 
