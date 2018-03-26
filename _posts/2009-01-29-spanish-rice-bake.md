@@ -9,7 +9,7 @@ category: beef
 - ¼ c chopped green bell pepper
 - ¾ c uncooked long grain rice
 - 1 t salt
-- 1 - 14.5 oz can
+- 1 - 14.5 oz can tomatoes (whole or diced or stewed)
 - 1 t brown sugar
 - 1 c water
 - ½ t ground cumin
