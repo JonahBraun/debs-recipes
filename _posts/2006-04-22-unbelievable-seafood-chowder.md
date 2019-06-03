@@ -10,9 +10,10 @@ Tasty and creamy!
 - ½ red pepper
 - 1 carrot
 - ¼ c butter
-- 1 can oysters with liquid
+- 8 oz salmon or other fish
 - 1 can smoked oysters
 - 1 c crab meat
+- 2 c shrimp, fish as available
 - 1 c clam juice 
 - 1 T worcestershire sauce
 - 1 T flour
