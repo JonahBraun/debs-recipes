@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Frozen yogurt and cream cheese pie
-category: dessert
+category: desserts
 tags: g
 serves: 8 - 12
 ---
@@ -14,7 +14,7 @@ Crust:
 - ½ c butter
 
 Filling:
-- 1 8oz brick cream cheese
+- 1 8 oz brick cream cheese
 - 2 c greek yogurt, plain
 - 2 t vanilla
 - 2 T honey or more to taste
