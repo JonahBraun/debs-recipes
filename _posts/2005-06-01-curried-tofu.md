@@ -7,7 +7,7 @@ serves: 4
 ---
 One pan asian vegetarian meal with Canadian cheddar.
 
-- block or about 1 c medium or firm tofu, diced
+- 1 block or about 1 c medium or firm tofu, diced
 - 1 large carrot, sliced thin
 - 1 onion sliced thin
 - ½ apple diced
