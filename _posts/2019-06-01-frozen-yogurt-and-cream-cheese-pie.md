@@ -23,6 +23,6 @@ Toppings:
 - 2 cups chopped fresh fruit or pie filling
 - whipped cream
 
-Blend crust ingredients. Press into 8 inch spring form pan bringing crust up the sides. Bake at 425 for 8 - 10 min or until browned. Remove from oven and cool.
+Blend crust ingredients. Add a splash of water - just enough to make the dough wet enough to stick together. Press into 8 inch spring form pan bringing crust up the sides. Bake at 425 for 8 - 10 min or until browned. Remove from oven and cool.
 Meanwhile blend all the filling ingredients. When crust is cooled pour filling into crust. Place pan into the freezer. When it is firm to the touch, it is ready to serve.
 Release spring form pan and cut pie into pieces. Top with fruit and a dollop of whipped cream.
