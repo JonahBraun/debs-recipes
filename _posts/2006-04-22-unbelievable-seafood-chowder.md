@@ -6,14 +6,14 @@ category: soups
 Tasty and creamy!
 
 - 1 onion diced
-- 2 cloves garlic
+- 2 cloves garlic, minced
 - ½ red pepper
-- 1 carrot
-- ¼ c butter
+- 1 carrot, grated
+- ¼ c butter or bacon lard
 - 8 oz salmon or other fish
-- 1 can smoked oysters
+- 1 can smoked oysters or canned clams, etc.
 - 1 c crab meat
-- 2 c shrimp, fish as available
+- 2 c shrimp
 - 1 c clam juice 
 - 1 T worcestershire sauce
 - 1 T flour
