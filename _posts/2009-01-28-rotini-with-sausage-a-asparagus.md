@@ -16,6 +16,6 @@ Peel and cut the sausage into bite sized pieces. Fry in a little oil until brown
 
 Toss asparagus in a little olive oil, place in a pan and put under broiler for 5 or 6 minutes until tender. Cut off tips and set aside.
 
-Take remaining asparagus, cut into 1 inch lengths and combine with cream. Simmer in pot on the stove for 10 minutes.
+Take remaining asparagus, cut into 1 inch lengths and combine with cream. Simmer in pot on the stove for 10 minutes until tender.
 
 Meanwhile cook the rotini until tender. Drain. Combine it immediately with the asparagus and cream mixture. Add the butter, sausage and asparagus tips. Simmer until warmed through. Season with salt and pepper. Sprinkle with parmesan cheese and serve.
