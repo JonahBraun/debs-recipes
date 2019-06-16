@@ -14,7 +14,7 @@ Crust:
 - ½ c butter
 
 Filling:
-- 1 8 oz brick cream cheese
+- 1  - 8 oz brick cream cheese
 - 2 c greek yogurt, plain
 - 2 t vanilla
 - 2 T honey or more to taste
