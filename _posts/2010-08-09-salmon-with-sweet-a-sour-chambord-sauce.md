@@ -5,12 +5,11 @@ category: seafood
 ---
 - 6  6 oz salmon fillets
 - 3 tbs lemon juice
-- 3 tbs olive oil
 - 2 tsp salt
 - 2 tsp ground black pepper
 - 1/4 cup olive oil
 
-Marinate salmon with all other above ingredients. While marinating, make the stewed leeks
+Marinate salmon with all the above ingredients. While marinating, make the stewed leeks.
 
 Stewed leeks
 
@@ -29,9 +28,8 @@ Remove uppermost green portion from the leeks. Cut leeks in half lengthwise, the
 
 Melt butter in large pot. Add leeks, white wine, salt and garlic. Cook over low heat for approximately 10 minutes.
 
-Stir in creme fraiche, chopped parsley, lemon juice and tabasco.
+Stir in creme fraiche, chopped parsley, lemon juice and tabasco. Set aside.
 
-Barbeue salmon on high heat for about 3 minutes on each side. Serve leeks and salmon with Chambord Sauce.
 
 Sweet & Sour Chambord Sauce
 
@@ -51,3 +49,7 @@ Heat oil. Add scallions, garlic and ginger. Cook for 20 seconds. Do not brown.
 
 Add chicken stock, chambord, rice vinegar, soy sauce, honey and pepper. Cook over low heat for 2 minutes. Mix cornstarch with a tablespoon of water; add to the sauce.
 Cook for an additional 2 minutes. Strain through a fine mesh strainer.  Can be made ahead.
+
+For Salmon:
+
+Barbeque salmon on high heat for about 3 minutes on each side. Serve leeks and salmon with Chambord Sauce below.
