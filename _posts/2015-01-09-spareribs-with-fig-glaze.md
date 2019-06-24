@@ -23,16 +23,14 @@ Glaze:
 
 - ⅔ cup chicken stock, preferably homemade
 - 2 T honey
-- ⅔ cup chicken stock, preferably homemade
-- 2 T honey
 - ½ t balsamic vinegar
 - ¼ teaspoon cumin
-- ⅛ teaspoon salt
+- ¼ teaspoon salt
 - dash white pepper
 - dash cinnamon
 - 1 large orange, peeled with pith removed
 - 10 dried figs, chopped
 - ¼ cup water
-- 1 T olive oil teaspoon balsamic vinegar
+- 1 T olive oil
 
 Pulse all in blender. Set aside. Until ribs have baked at least 2 hours, then spread a layer over the top side of the ribs.  Return ribs to the oven without a cover. Bake for another twenty minutes.  Flip rack of ribs and apply another generous coat of glaze. Return to oven for another 20 minutes. Repeat the process one or two times more until the ribs are saturated with glaze and browned.
