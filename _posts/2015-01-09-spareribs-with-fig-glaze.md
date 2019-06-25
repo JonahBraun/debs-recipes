@@ -2,7 +2,7 @@
 layout: recipe
 title: Spare Ribs with Fig Glaze
 category: pork
-serves: 6
+serves: 4
 ---
 Easy recipe to put together, but allow several hours for baking.
 
@@ -36,4 +36,4 @@ Glaze:
 - ¼ cup water
 - 1 T olive oil
 
-Pulse all in blender. Set aside. Until ribs have baked at least 2 hours, then spread a layer over the top side of the ribs.  Return ribs to the oven without a cover. Bake for another twenty minutes.  Flip rack of ribs and apply another generous coat of glaze. Return to oven for another 20 minutes. Repeat the process one or two times more until the ribs are saturated with glaze and browned.
+Pulse all in blender. Set aside until ribs are done then spread a layer over the top side of the ribs.  Return ribs to the oven without a cover. Bake for another twenty minutes.  Flip rack of ribs and apply another generous coat of glaze. Return to oven for another 20 minutes. Repeat the process one or two times more until the ribs are saturated with glaze and browned.
