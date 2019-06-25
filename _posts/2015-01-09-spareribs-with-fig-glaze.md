@@ -6,6 +6,9 @@ serves: 6
 ---
 Easy recipe to put together, but allow several hours for baking.
 
+Ribs: 
+750 gm side ribs
+
 Rub:
 
 - 3 cloves garlic
