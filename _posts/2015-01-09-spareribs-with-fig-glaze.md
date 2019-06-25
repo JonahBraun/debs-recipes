@@ -28,7 +28,7 @@ Glaze:
 - 2 T honey
 - ½ t balsamic vinegar
 - ¼ teaspoon cumin
-- ¼ teaspoon salt
+- ½ teaspoon salt
 - dash white pepper
 - dash cinnamon
 - 1 large orange, peeled with pith removed
