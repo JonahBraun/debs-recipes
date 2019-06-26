@@ -26,7 +26,7 @@ Stewed leeks
 
 Remove uppermost green portion from the leeks. Cut leeks in half lengthwise, then cut into thin, half-moon slices. Place in colander and rinse well.
 
-Melt butter in large pot. Add leeks, white wine, salt and garlic. Cook over low heat for approximately 10 minutes.
+Melt butter in large pot. Add leeks, white wine, stock, salt and garlic. Cook over low heat for approximately 10 minutes.
 
 Stir in creme fraiche, chopped parsley, lemon juice and tabasco. Set aside.
 
