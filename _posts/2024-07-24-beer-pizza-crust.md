@@ -14,9 +14,13 @@ serves: makes 2 large thin crust pizzas or 2 medium size pizzas
 
 Measure all ingredients into mixing bowl. Mix well, then knead adding more flour until dough is smooth and stretchy but not too firm or it will be hard to roll out. 
 Cover and let rise for about an hour.
-Meanwhile, lightly oil 2 pizza pans. 
-Remove dough from bowl and cut into 2 pieces. Using a bit of oil on the rolling pin and your hands, roll out and stretch each piece to fit pizza pans. 
+
+Lightly oil 2 pizza pans. 
+
+Remove dough from bowl and cut into 2 pieces. Using a bit of oil on the rolling pin and on your hands, roll out then stretch each piece to fit pizza pans. 
+
 Add toppings. 
+
 Bake at 450 degrees for 12 - 15 minutes. Pizza is ready when crust is brown and cheese is bubbly and browning. 
 
 
