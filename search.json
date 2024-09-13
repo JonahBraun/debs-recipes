@@ -49,5 +49,8 @@
 	{% assign cat = site.categories.misc %}
 	{% include cat.json %}
 
+	{% assign cat = site.categories.cookingtips %}
+	{% include cat.json %}
+
 	"NOTAPOST": false
 }
