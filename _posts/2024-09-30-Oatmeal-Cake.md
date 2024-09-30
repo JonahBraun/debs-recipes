@@ -13,6 +13,8 @@ Cream:
   Add:
   - 2 eggs, one at a time and continue to cream.
  
+Add oats/porridge and mix.
+ 
 Add dry mixture:
 - 1 c flour
 - 1 t soda
