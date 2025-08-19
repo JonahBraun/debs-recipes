@@ -3,17 +3,28 @@ layout: recipe
 title: Healthy Cookies ⓖ
 category: desserts
 ---
-Fall means a ready supply of pumpkins.  Rather than just carve them for Halloween, try a new pumpkin recipe!  This one is absolutely delicious.
+These healthy cookies are a great tasting gluten free treat.
 
-- 1⅓ c sugar 
-- 1½ c whole wheat flour
-- 1 c butter
-- 2 tsp. baking soda
-- 1¾ c fresh cooked pumpkin
-- 2 tsp. ground cinnamon
-- 2 tsp. vanilla extract
-- ¾ lb semi-sweet chocolate chips 
-- 2½ c white flour
-- ¾ c chopped walnuts
+- 1 egg
+- ¼ c greek yogurt
+- ⅓ c nut butter
+- ¼ c butter
+- 1 c dates
+- 2 t vanilla
+- ¼ c shredded unsweetened coconut
+- 1 c quick oats
+- 1 c almond flour
+- ¼ t salt
+- ½ t baking soda
+- 1 t cinnamon
+- ¼ c chocolate chips
 
-Cream together sugar, butter, pumpkin and vanilla extract.  Mix until light and well combined.  Mix the flour, baking soda and ground cinnamon in a separate bowl.  Sift the flour mixture into the creamed mixture.  Mix until combined.  Stir in the chocolate chips and nuts.  Drop by teaspoons onto an ungreased baking sheet.  Bake 12-15 minutes at 375F.
+Preheat the oven to 350 degrees Fahrenheit.
+
+Toast the coconut in a small dry skillet (no oil) over medium heat until lightly browned.
+
+Add the dates, egg, yogurt, nut butter, butter, and vanilla to a blender or food processor and blend until smooth.
+
+Place the coconut, oats, almond flour, baking soda, and cinnamon into a large mixing bowl. Combine, then add the ingredients from the blender. Add the chocolate chips and stir together.
+
+Drop onto lightly oiled cookie sheet and bake 12 - 15 minutes until golden brown.
