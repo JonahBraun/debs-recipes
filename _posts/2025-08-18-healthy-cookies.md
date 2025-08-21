@@ -18,6 +18,7 @@ These healthy cookies are a great tasting gluten free treat.
 - ½ t baking soda
 - 1 t cinnamon
 - ¼ c chocolate chips
+- ¼ c raisins (optional)
 
 Preheat the oven to 350 degrees Fahrenheit.
 
