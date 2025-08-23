@@ -5,7 +5,7 @@ category: desserts
 ---
 Chocolate, chocolate, chocolate cookies.
 
-- 16 squares semi-sweet chocolate
+- 8 oz semi-sweet chocolate
 - ½ c butter
 - 3 eggs
 - 2 c sugar
@@ -26,3 +26,4 @@ Drop by heaping tablespoon onto greased baking sheets.
 Bake at 325 for 10 minutes.  Cool for 2 min then transfer cookies to wire rack to cool completely.
 
 Note: A double boiler or bowl set in a pot of simmering water works well for melting the chocolate.
+
