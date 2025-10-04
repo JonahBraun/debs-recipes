@@ -16,7 +16,7 @@ Fall means a ready supply of pumpkins.  Rather than just carve them for Hallowe
 - 1 c semi-sweet or dark chocolate chips 
 - ¾ c chopped walnuts or pecans
 
-Cream together sugar, butter, pumpkin and vanilla extract.  Mix until light and well combined.  Mix the flour, baking soda and ground cinnamon in a separate bowl.  Sift the flour mixture into the creamed mixture.  Mix until combined.  Stir in the chocolate chips and nuts.  Drop by teaspoons onto an ungreased baking sheet.  Bake 12-15 minutes at 375F.
+Cream together sugar, butter, pumpkin and vanilla extract.  Mix until light and well combined.  Mix the flour, baking soda and ground cinnamon in a separate bowl.  Sift the flour mixture into the creamed mixture.  Mix until combined.  Stir in the chocolate chips and nuts.  Drop by heaping teaspoons onto an ungreased baking sheet.  Bake 12-15 minutes at 375F.
 
 
 Maple Cream Cheese Icing (Optional)
@@ -27,6 +27,6 @@ Maple Cream Cheese Icing (Optional)
 - 2 T maple syrup
 - ¼ t cinnamon
 
-Beat cream cheese on medium high speed until smooth. Add all other ingredients, then beat on low speed until smooth. 
+Beat cream cheese on medium high speed until smooth. Add all other ingredients, then beat on low speed until creamy. 
 
 Spread icing over cooled cookies. Garnish with pecan or walnut halves if desired.
