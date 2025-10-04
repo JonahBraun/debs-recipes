@@ -18,6 +18,7 @@ Fall means a ready supply of pumpkins.  Rather than just carve them for Hallowe
 
 Cream together sugar, butter, pumpkin and vanilla extract.  Mix until light and well combined.  Mix the flour, baking soda and ground cinnamon in a separate bowl.  Sift the flour mixture into the creamed mixture.  Mix until combined.  Stir in the chocolate chips and nuts.  Drop by teaspoons onto an ungreased baking sheet.  Bake 12-15 minutes at 375F.
 
+
 Maple Cream Cheese Icing (Optional)
 
 - 4 oz (½ brick) cream cheese, room temperature
